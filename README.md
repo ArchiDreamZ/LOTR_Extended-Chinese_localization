@@ -13,4 +13,5 @@
 
 **新路径点**：Barazimabul, Mablad Dum, Narad Dum, Nifudisi Landing, Aldarion Landing。
 
+## 来源资料
 这些新内容很多都是来自于[Other Minds杂志的 A Brief History of the Dwarven Mansions](https://notionclubarchives.fandom.com/wiki/Other_Minds_Magazine)一期和Middle-earth Role Playing(MERP)的，这可以在[The New Notion Club Archives维基](https://notionclubarchives.fandom.com/wiki/Arda_Role_Playing_Wiki)查到。
