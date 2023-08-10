@@ -12,3 +12,5 @@
 **新生物群系**：黄色山脉、黑暗之地丛林、南方苔原、针叶林和永久冻土、太阳沙漠和太阳之墙等。
 
 **新路径点**：Barazimabul, Mablad Dum, Narad Dum, Nifudisi Landing, Aldarion Landing。
+
+这些新内容很多都是来自于[Other Minds杂志的 A Brief History of the Dwarven Mansions 一期](https://notionclubarchives.fandom.com/wiki/Other_Minds_Magazine)和MERP的，这可以在[The New Notion Club Archives维基](https://notionclubarchives.fandom.com/wiki/Arda_Role_Playing_Wiki)查到。
