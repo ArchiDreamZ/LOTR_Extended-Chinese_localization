@@ -11,7 +11,17 @@
 
 **新生物群系**：黄色山脉、黑暗之地丛林、南方苔原、针叶林和永久冻土、太阳沙漠和太阳之墙等。
 
-**新路径点**：Barazimabul, Mablad Dum, Narad Dum, Nifudisi Landing, Aldarion Landing。
+**新路径点**：
+
+巴拉齐布尔（Barazimabul） 来源：[Barazimabûl](https://notionclubarchives.fandom.com/wiki/Barazimab%C3%BBl)
+
+玛布拉德督姆（Mablad Dum） 来源：[Mablâd-dûm](https://notionclubarchives.fandom.com/wiki/Mabl%C3%A2d-d%C3%BBm)
+
+纳拉督姆（Narad Dum） 来源：[Nárad-dûm](https://notionclubarchives.fandom.com/wiki/N%C3%A1rad-d%C3%BBm)
+
+Nifudisi Landing 来源：[]()
+
+Aldarion Landing 来源：[]()
 
 ## 来源资料
 这些新内容很多都是来自于[Other Minds杂志](https://notionclubarchives.fandom.com/wiki/Other_Minds_Magazine)的 A Brief History of the Dwarven Mansions一期和Middle-earth Role Playing(MERP)的，这可以在[The New Notion Club Archives维基](https://notionclubarchives.fandom.com/wiki/Arda_Role_Playing_Wiki)查到。
