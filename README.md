@@ -28,6 +28,6 @@ Aldarion Landing 来源：[]()
 
 MERP补充了黑发矮人与石足矮人之间的古老矛盾、受力量之戒蛊惑、斗争与分裂、懊悔与自我放逐、对抗魔多以寻求救赎、南迁黄色山脉等历史。
 
-详见：[黑发矮人](https://notionclubarchives.fandom.com/wiki/Blacklocks)、[黄色山脉](https://notionclubarchives.fandom.com/wiki/T%C3%BBr_Betark)
+详见：[黑发矮人](https://notionclubarchives.fandom.com/wiki/Blacklocks)、[黄色山脉(Tûr Betark)](https://notionclubarchives.fandom.com/wiki/T%C3%BBr_Betark)
 
 > 到这里你们可能意识到了，虽然Hummel009借鉴了MERP里的黄山与矮人，但是MERP里的黄山是位于中洲的极南之地，并不是黑暗大陆。
