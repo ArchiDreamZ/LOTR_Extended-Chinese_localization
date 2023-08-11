@@ -13,7 +13,7 @@
 
 **新路径点**：
 
-巴拉齐布尔（Barazimabul） 来源：[Barazimabûl](https://notionclubarchives.fandom.com/wiki/Barazimab%C3%BBl)
+巴拉兹马布尔（Barazimabul） 来源：[Barazimabûl](https://notionclubarchives.fandom.com/wiki/Barazimab%C3%BBl)
 
 玛布拉德督姆（Mablad Dum） 来源：[Mablâd-dûm](https://notionclubarchives.fandom.com/wiki/Mabl%C3%A2d-d%C3%BBm)
 
