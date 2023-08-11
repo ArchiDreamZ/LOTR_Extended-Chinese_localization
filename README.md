@@ -28,7 +28,7 @@
 ## 来源资料
 这些新内容很多都是来自于[Other Minds杂志](https://notionclubarchives.fandom.com/wiki/Other_Minds_Magazine)的 A Brief History of the Dwarven Mansions一期和Middle-earth Role Playing(MERP)的，这可以在[The New Notion Club Archives维基](https://notionclubarchives.fandom.com/wiki/Arda_Role_Playing_Wiki)查到。
 
-MERP补充了黑发矮人与石足矮人之间的古老矛盾、受力量之戒蛊惑、斗争与分裂、懊悔与自我放逐、对抗魔多以寻求救赎、南迁黄色山脉等历史。
+MERP补充了黑发矮人与石足矮人之间的古老矛盾、受力量之戒蛊惑、与石足矮人的斗争、家族一分为三、懊悔与自我放逐、对抗魔多以寻求救赎、其中一支南迁黄色山脉等历史。
 
 详见：[黑发矮人](https://notionclubarchives.fandom.com/wiki/Blacklocks)、[黄色山脉(Tûr Betark)](https://notionclubarchives.fandom.com/wiki/T%C3%BBr_Betark)、[Tûr Betark](https://www.thetolkienforum.com/wiki/T%C3%BBr-Betark)
 
