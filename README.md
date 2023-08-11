@@ -19,9 +19,11 @@
 
 纳拉督姆（Narad Dum） 来源：[Nárad-dûm](https://notionclubarchives.fandom.com/wiki/N%C3%A1rad-d%C3%BBm)
 
-Nifudisi Landing 来源：[]()
+塔尔-阿勒达瑞安的登陆点（Nifudisi Landing）
 
-Aldarion Landing 来源：[]()
+穆方迪西的登陆点（Aldarion Landing）
+
+具体信息可以在路径点介绍查看。
 
 ## 来源资料
 这些新内容很多都是来自于[Other Minds杂志](https://notionclubarchives.fandom.com/wiki/Other_Minds_Magazine)的 A Brief History of the Dwarven Mansions一期和Middle-earth Role Playing(MERP)的，这可以在[The New Notion Club Archives维基](https://notionclubarchives.fandom.com/wiki/Arda_Role_Playing_Wiki)查到。
