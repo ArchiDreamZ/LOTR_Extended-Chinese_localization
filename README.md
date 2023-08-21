@@ -19,9 +19,9 @@
 
 纳拉督姆（Narad Dum） 来源：[Nárad-dûm](https://notionclubarchives.fandom.com/wiki/N%C3%A1rad-d%C3%BBm)
 
-塔尔-阿勒达瑞安的登陆点（Nifudisi Landing）
+塔尔-阿勒达瑞安的登陆点（Aldarion Landing）
 
-穆方迪西的登陆点（Aldarion Landing）
+穆方迪西的登陆点（Nifudisi Landing）
 
 具体信息可以在路径点介绍查看。
 
